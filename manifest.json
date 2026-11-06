@@ -1,0 +1,17 @@
+{
+  "name": "Shariq Calendar",
+  "short_name": "Shariq Calendar",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f3f5f6",
+  "theme_color": "#142d3a",
+  "description": "Study planner and Salah tracker",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
