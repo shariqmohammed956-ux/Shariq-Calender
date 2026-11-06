@@ -1,17 +1,16 @@
 {
-  "name": "Shariq Calendar",
-  "short_name": "Shariq Calendar",
-  "start_url": "./",
+  "name": "SMARK Study Planner",
+  "short_name": "SMARK",
+  "start_url": "./index.html",
   "display": "standalone",
-  "background_color": "#f3f5f6",
-  "theme_color": "#142d3a",
-  "description": "Study planner and Salah tracker",
+  "background_color": "#f4f6fa",
+  "theme_color": "#101827",
   "icons": [
     {
       "src": "icon.svg",
       "sizes": "any",
       "type": "image/svg+xml",
-      "purpose": "any maskable"
+      "purpose": "any"
     }
   ]
 }
